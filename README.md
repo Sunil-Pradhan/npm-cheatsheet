@@ -47,5 +47,5 @@ npm help -search <command>
 Example:
 
 ```
-nmm help -search install
+npm help -search install
 ```
