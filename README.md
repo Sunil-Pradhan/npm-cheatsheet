@@ -54,9 +54,15 @@ npm help -search install
 <a name="Pakg-cr"></a>
 ## Package creation
 
-Wizard to create package.json file:
+Initialize project and create package.json:
 
 ```
 npm init
 ```
-:bulb: Note: Follow the wizard dilligently
+:bulb: **Note:** Follow the wizard dilligently.
+
+Initialize project and create package.json file with default values:
+
+```
+npm init --yes
+```
