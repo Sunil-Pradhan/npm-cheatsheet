@@ -11,7 +11,7 @@ A list of terminal commands and flags to help use npm.
 
 ## Table of Contents
 * [Basic npm commands](#basic-command)
-* [Package management](#Pakg-mg)
+* [Package creation](#Pakg-cr)
 
 <a name="basic-command"></a>
 ## Basic npm commands
@@ -51,6 +51,6 @@ npm help -search install
 ```
 <hr>
 
-<a name="Pakg-mg"></a>
-## Package management
+<a name="Pakg-cr"></a>
+## Package creation
 
