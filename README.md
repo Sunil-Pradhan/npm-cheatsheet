@@ -36,7 +36,7 @@ npm <command> -h
 **Example:**
 
 ```
-nmm install -h
+npm install -h
 ```
 
 Search npm documentation and return the result:
