@@ -11,7 +11,7 @@ A list of terminal commands and flags to help use npm.
 
 ## Table of Contents
 * [Basic npm commands](#basic-command)
-* [Branch and Merge](#Branch-merge)
+* [Package management](#Pakg-mg)
 
 <a name="basic-command"></a>
 ## Basic npm commands
@@ -49,3 +49,8 @@ Example:
 ```
 npm help -search install
 ```
+<hr>
+
+<a name="Pakg-mg"></a>
+## Package management
+
