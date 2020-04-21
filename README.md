@@ -22,3 +22,21 @@ Check version number of npm:
 npm -v
 ```
 
+Get help on npm:
+
+```
+npm help
+```
+
+Quick help for specific command:
+
+
+```
+npm <command> -h 
+```
+**Example:**
+
+```
+nmm install -h
+```
+
