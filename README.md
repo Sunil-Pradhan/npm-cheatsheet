@@ -33,7 +33,7 @@ Quick help for specific command:
 ```
 npm <command> -h 
 ```
-**Example:**
+Example:
 
 ```
 npm install -h
@@ -44,7 +44,7 @@ Search npm documentation and return the result:
 ```
 npm help -search <command>
 ```
-**Example:**
+Example:
 
 ```
 nmm help -search install
