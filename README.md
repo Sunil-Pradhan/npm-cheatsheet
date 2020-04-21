@@ -30,7 +30,6 @@ npm help
 
 Quick help for specific command:
 
-
 ```
 npm <command> -h 
 ```
@@ -40,3 +39,13 @@ npm <command> -h
 nmm install -h
 ```
 
+Search npm documentation and return the result:
+
+```
+npm help -search <command>
+```
+**Example:**
+
+```
+nmm help -search install
+```
