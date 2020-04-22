@@ -143,3 +143,22 @@ Example:
 ```
 npm install lodash
 ```
+
+Install a package:
+
+
+```
+npm install <package name> --save-dev 
+```
+
+Example:
+
+```
+npm install lodash --save-dev 
+```
+
+
+
+
+
+Install as package as devDependency
