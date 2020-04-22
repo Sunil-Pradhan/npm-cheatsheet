@@ -66,3 +66,19 @@ Initialize project and create package.json file with default values:
 ```
 npm init --yes
 ```
+
+Set default author name for package.json:
+
+```
+npm config set init -author-name ‘your-name’
+```
+
+Set default license for package.json: 
+
+
+```
+npm set init -license ‘MIT’
+```
+
+
+
