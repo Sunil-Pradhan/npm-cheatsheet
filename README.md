@@ -12,6 +12,9 @@ A list of terminal commands and flags to help use npm.
 ## Table of Contents
 * [Basic npm commands](#basic-command)
 * [Package creation](#Pakg-cr)
+* [Package management](#Pakg-magt)
+
+
 
 <a name="basic-command"></a>
 ## Basic npm commands
@@ -110,7 +113,10 @@ npm config delete init -license
 ```
 
 
- 
+ <hr>
+
+<a name="Pakg-magt"></a>
+## Package management
 
 
 
