@@ -80,5 +80,22 @@ Set default license for package.json:
 npm set init -license ‘MIT’
 ```
 
+Show default author name:
+
+
+```
+npm config get init -author-name
+```
+
+Show default license: 
+
+
+```
+npm get init-license
+```
+
+
+
+
 
 
