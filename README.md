@@ -131,4 +131,10 @@ or
 npm i
 ```
 
+Install a package:
+
+
+```
+npm install lodash	
+```
 
