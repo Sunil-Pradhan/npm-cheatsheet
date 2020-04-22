@@ -118,6 +118,17 @@ npm config delete init -license
 <a name="Pakg-magt"></a>
 ## Package management
 
+Install everything in package.json:
 
+
+```
+npm install
+```
+
+or 
+
+```
+npm i
+```
 
 
