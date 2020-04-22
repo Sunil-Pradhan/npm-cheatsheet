@@ -94,7 +94,23 @@ Show default license:
 npm get init-license
 ```
 
+Delete default author name: 
 
+
+```
+npm config delete init -author-name
+```
+
+
+Delete default license:
+
+
+```
+npm config delete init -license 
+```
+
+
+ 
 
 
 
