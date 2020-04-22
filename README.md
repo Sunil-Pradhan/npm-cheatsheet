@@ -135,6 +135,11 @@ Install a package:
 
 
 ```
-npm install lodash	
+npm install <package name>	
 ```
 
+Example:
+
+```
+npm install lodash
+```
