@@ -253,8 +253,8 @@ npm list --depth 0
 ```
 
 :bulb: NOTE: _It gives you the list of all the packages and no dependencies for that particular package._
-<br>
 
+<br>
 List globally installed packages (includes all dependencies):
 
 ```
