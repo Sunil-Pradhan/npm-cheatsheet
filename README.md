@@ -187,4 +187,39 @@ Example:
 npm rm lodash --save
 ```
 
+Install global packages: 
 
+```
+npm install <package name> g
+```
+
+Uninstall global packages: 
+
+
+```
+npm uninstall <package name> -g
+```
+
+Or
+
+```
+npm un <package name> -g
+```
+
+Or
+
+```
+npm remove <package name> -g 
+```
+
+Or
+
+```
+npm rm <package name> -g 
+```
+
+Example: 
+
+```
+npm rm lodash -g
+```
