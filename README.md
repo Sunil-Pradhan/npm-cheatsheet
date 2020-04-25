@@ -13,6 +13,9 @@ A list of terminal commands and flags to help use npm.
 * [Basic npm commands](#basic-command)
 * [Package creation](#Pakg-cr)
 * [Package management](#Pakg-magt)
+* [List packages](#list-packg)
+
+
 
 
 
@@ -223,3 +226,16 @@ Example:
 ```
 npm rm lodash g
 ```
+
+<hr>
+
+<a name="list-packg"></a>
+## List packages
+
+List locally installed packages (includes all dependencies): 
+
+```
+npm list 
+```
+
+
