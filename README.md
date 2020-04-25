@@ -253,3 +253,19 @@ npm list --depth 0
 ```
 
 It gives you the list of all the packages and no dependencies for that particular package.
+
+
+List globally installed packages (includes all dependencies):
+
+```
+npm list --global
+```
+
+Or
+
+```
+npm list -g
+```
+
+
+
