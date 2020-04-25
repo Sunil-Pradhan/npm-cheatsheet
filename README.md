@@ -238,7 +238,7 @@ List locally installed packages (includes all dependencies):
 npm list 
 ```
 
-Restrict the depth of the tree by 1: : 
+Restrict the depth of the tree by 1:  
 
 ```
 npm list --depth 1
@@ -267,5 +267,16 @@ Or
 npm list -g
 ```
 
+Restrict the depth of the tree by 0 (global packages): 
+
+```
+npm list -g --depth 0	
+```
+
+Or 
+
+```
+npm list --global true --depth 0 
+```
 
 
