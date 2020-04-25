@@ -257,8 +257,6 @@ npm list --depth 0
 <br>
 List globally installed packages (includes all dependencies):
 
-<br>
-
 ```
 npm list --global
 ```
