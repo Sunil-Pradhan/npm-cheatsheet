@@ -245,7 +245,7 @@ npm list --depth 1
 ```
 :bulb: NOTE: _It gives you only immediate dependencies of the packages._
 
-
+<br>
 Restrict the depth of the tree by 0: 
 
 ```
