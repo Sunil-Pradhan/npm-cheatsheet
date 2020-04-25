@@ -197,29 +197,29 @@ Uninstall global packages:
 
 
 ```
-npm uninstall <package name> -g
+npm uninstall <package name> g
 ```
 
 Or
 
 ```
-npm un <package name> -g
+npm un <package name> g
 ```
 
 Or
 
 ```
-npm remove <package name> -g 
+npm remove <package name> g 
 ```
 
 Or
 
 ```
-npm rm <package name> -g 
+npm rm <package name> g 
 ```
 
 Example: 
 
 ```
-npm rm lodash -g
+npm rm lodash g
 ```
