@@ -144,7 +144,7 @@ Example:
 npm install lodash
 ```
 
-Install a package:
+Install a package as devDependency:
 
 
 ```
@@ -157,8 +157,34 @@ Example:
 npm install lodash --save-dev 
 ```
 
+Uninstalling local Packages
+
+```
+npm uninstall <package name> --save 
+```
+
+Or
+
+```
+npm un <package name> --save
+```
+
+Or
+
+```
+npm remove <package name> --save 
+```
+
+Or
+
+```
+npm rm <package name> --save 
+```
+
+Example: 
+
+```
+npm rm lodash --save
+```
 
 
-
-
-Install as package as devDependency
