@@ -157,7 +157,7 @@ Example:
 npm install lodash --save-dev 
 ```
 
-Uninstalling local Packages
+Uninstalling local packages:
 
 ```
 npm uninstall <package name> --save 
