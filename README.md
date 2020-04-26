@@ -301,3 +301,17 @@ Exact version          | 5.21.17
 Greater than           | >5.21.1
 Compatible changes     | ^5.21.8
 Minor-level changes    | ~5.21.8
+
+
+Install specific version of a package: 
+
+```
+npm install <package@version>
+```
+
+Example: 
+
+```
+npm install lodash@3.3.0 --save
+```
+
