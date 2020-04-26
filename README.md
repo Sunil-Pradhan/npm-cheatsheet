@@ -279,7 +279,7 @@ Or
 ```
 npm list --global true --depth 0 
 ```
-
+<hr>
 <a name="npm-ver"></a>
 ## npm Versioning
 
@@ -295,7 +295,7 @@ There is a special agreement to set versions of the packages and it's called **s
 
 Parameter | Release Version
 ------------ | -------------
-Exact Version          | 5.21.17
+Exact version          | 5.21.17
 Greater than           | >5.21.1
 Compatible changes     | ^5.21.8
 Minor-level changes    | ~5.21.8
