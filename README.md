@@ -285,6 +285,7 @@ npm list --global true --depth 0
 
 There is a special agreement to set versions of the packages and it's called **semantic versioning**. It is a specification where a version is represented by three numbers that mean the same thing for every developer.
 
+![npm-semantic versioning](/img/npm-semantic%20versioning.png)
 
 * **Patch:** It is used for bug fixes
 * **Minor:** New features but compatible with previous version
