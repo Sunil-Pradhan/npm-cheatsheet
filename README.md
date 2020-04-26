@@ -315,7 +315,7 @@ Example:
 npm install lodash@3.3.0 --save
 ```
 
-Restrict major and minor version but patch version latest in a package: 
+Restrict major and minor version but use patch version to latest in a package: 
 
 ```
 npm install <package@major.minor>
@@ -325,6 +325,20 @@ Example:
 
 ```
 npm install lodash@4.14 --save
+```
+
+
+Install package only with latest major version number: 
+
+
+```
+npm install <package@major>
+```
+
+Example: 
+
+```
+npm install lodash@4 --save
 ```
 
 
