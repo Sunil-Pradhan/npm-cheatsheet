@@ -283,7 +283,7 @@ npm list --global true --depth 0
 <hr>
 
 <a name="npm-ver"></a>
-## npm Versioning
+## NPM Versioning
 
 There is a special agreement to set versions of the packages and it's called **semantic versioning**. It is a specification where a version is represented by three numbers that mean the same thing for every developer.
 
