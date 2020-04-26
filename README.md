@@ -14,6 +14,7 @@ A list of terminal commands and flags to help use npm.
 * [Package creation](#Pakg-cr)
 * [Package management](#Pakg-magt)
 * [List packages](#list-packg)
+* [npm versioning](#npm-ver)
 
 
 
@@ -278,5 +279,8 @@ Or
 ```
 npm list --global true --depth 0 
 ```
+
+<a name="npm-ver"></a>
+## npm Versioning
 
 
