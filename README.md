@@ -317,12 +317,6 @@ Example:
 
 ![npm-tilde-symbol](/img/npm-tilde-symbol.png)
 
-**No symbol:** You can just have the specific version number in this case npm doesn't install a newer version even though it exists when you run `npm install`.
-
-Example: 
-
-![npm-no-symbol](/img/npm-no-symbol.png)
-
 
 **Asterisk (*) symbol:** Let's say even if there is a change in the major version number of a package but you want the latest one. In this case you will use an asterisk symbol. 
 
@@ -331,6 +325,12 @@ So, when you specify an asterisk symbol it is going to retrieve the latest versi
 **Example:**
 
 ![npm-asterisk-symbol](/img/npm-asterisk-symbol.png)
+
+**No symbol:** You can just have the specific version number in this case npm doesn't install a newer version even though it exists when you run `npm install`.
+
+Example: 
+
+![npm-no-symbol](/img/npm-no-symbol.png)
 
 
 
