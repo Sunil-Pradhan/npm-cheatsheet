@@ -397,6 +397,13 @@ Example:
 npm update lodash --save 
 ```
 
+Update only dev dependencies:
+
+```
+npm update --dev --save-dev
+```
+
+
 
 
 
