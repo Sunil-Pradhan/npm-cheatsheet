@@ -56,6 +56,15 @@ Example:
 ```
 npm help -search install
 ```
+
+Update npm to latest version: 
+
+```
+npm install npm@latest -g 
+```
+
+
+
 <hr>
 
 <a name="Pakg-cr"></a>
