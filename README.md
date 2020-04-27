@@ -403,6 +403,13 @@ Update only dev dependencies:
 npm update --dev --save-dev
 ```
 
+Update all the packages globally:
+
+```
+npm update -g 
+```
+
+
 
 
 
