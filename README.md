@@ -302,7 +302,8 @@ Greater than           | >5.21.1
 Compatible changes     | ^5.21.8
 Minor-level changes    | ~5.21.8
 
-**Version specification in package.json file (helpful when using `npm install` command): **
+
+**Version specification in package.json file (helpful when using `npm install` command):**
 
 **Caret (^) symbol:** Stick to the given major version number but when run `npm install` retrieve the latest minor and patch version.
 
