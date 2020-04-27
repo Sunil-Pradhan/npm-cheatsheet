@@ -15,7 +15,7 @@ A list of terminal commands and flags to help use npm.
 * [Package management](#Pakg-magt)
 * [List packages](#list-packg)
 * [npm versioning](#npm-ver)
-
+* [Updating Packages](#update-packg)
 
 
 
@@ -373,4 +373,7 @@ Example:
 npm install lodash@4 --save
 ```
 
+<hr>
 
+<a name="update-packg"></a>
+## Updating Packages
