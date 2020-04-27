@@ -377,3 +377,27 @@ npm install lodash@4 --save
 
 <a name="update-packg"></a>
 ## Updating Packages
+
+
+Updates all listed packages to the latest release version:
+
+```
+npm update
+```
+
+Update specific package: 
+
+```
+npm update <package> --save
+```
+
+Example: 
+
+```
+npm update lodash --save 
+```
+
+
+
+
+
