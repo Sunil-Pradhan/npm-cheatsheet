@@ -409,6 +409,19 @@ Update all the packages globally:
 npm update -g 
 ```
 
+Update specific package globally:
+
+```
+npm update -g <package>
+```
+
+Example: 
+
+```
+npm update -g lodash 
+```
+
+
 
 
 
