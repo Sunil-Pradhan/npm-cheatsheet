@@ -324,6 +324,17 @@ Example:
 ![npm-no-symbol](/img/npm-no-symbol.png)
 
 
+**Asterisk (*) symbol:** Let's say even if there is a change in the major version number of a package but you want the latest one. In this case you will use an asterisk symbol. 
+
+So, when you specify an asterisk symbol it is going to retrieve the latest version of the package irrespective of the major minor or patch version.
+
+**Example:**
+
+![npm-asterisk-symbol](/img/npm-asterisk-symbol.png)
+
+
+
+
 Install specific version of a package: 
 
 ```
