@@ -317,6 +317,11 @@ Example:
 
 ![npm-tilde-symbol](/img/npm-tilde-symbol.png)
 
+**No symbol:** You can just have the specific version number in this case npm doesn't install a newer version even though it exists when you run `npm install`.
+
+Example: 
+
+![npm-no-symbol](/img/npm-no-symbol.png)
 
 
 Install specific version of a package: 
