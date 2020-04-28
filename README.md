@@ -9,6 +9,7 @@ A list of terminal commands and flags to help use npm.
 </p>
 
 
+
 ## Table of Contents
 * [Basic npm commands](#basic-command)
 * [Package creation](#Pakg-cr)
@@ -17,7 +18,7 @@ A list of terminal commands and flags to help use npm.
 * [npm versioning](#npm-ver)
 * [Updating Packages](#update-packg)
 * [NPM Prune](#npm-prune)
-
+* [Resources](#npm-resources)
 
 
 
@@ -70,8 +71,6 @@ Update npm to latest version:
 ```
 npm install npm@latest -g 
 ```
-
-NPM Shorthands: [@npmjs-docs](https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties)
 
 <hr>
 
@@ -470,5 +469,10 @@ npm prune
 More info: [@stackoverflow](https://stackoverflow.com/questions/21417014/npm-command-to-uninstall-or-prune-unused-packages-in-node-js)
 
 
+<hr>
 
+<a name="npm-resources "></a>
 
+##### Resources 
+
+NPM Shorthands: [@npmjs-docs](https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties)
