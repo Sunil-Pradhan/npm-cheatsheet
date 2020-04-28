@@ -28,6 +28,12 @@ A list of terminal commands and flags to help use npm.
 Check version number of npm:
 
 ```
+npm -version
+```
+
+Or use shorthand:
+
+```
 npm -v
 ```
 
