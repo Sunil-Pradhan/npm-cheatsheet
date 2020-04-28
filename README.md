@@ -85,6 +85,12 @@ Initialize project and create package.json file with default values:
 npm init --yes
 ```
 
+Or use shorthand: 
+
+```
+npm init --y
+```
+
 Set default author name for package.json:
 
 ```
