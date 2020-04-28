@@ -146,7 +146,7 @@ Install everything in package.json:
 npm install
 ```
 
-or 
+Or use shorthand:
 
 ```
 npm i
@@ -157,6 +157,12 @@ Install a package:
 
 ```
 npm install <package name>	
+```
+
+Or use shorthand:
+
+```
+npm i <package name>
 ```
 
 Example:
