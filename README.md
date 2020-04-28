@@ -474,6 +474,17 @@ More info: [@stackoverflow](https://stackoverflow.com/questions/21417014/npm-com
 <a name="npm-dep-dev"></a>
 ## Dependencies and Development Dependencies
 
+**Dependencies:**
+
+* Installed using `npm install` or `npm install <package>`
+* If package A is installed using `npm install <packageA>` and it has dependency on package B then package B will be also installed along with it’s dependencies. 
+
+**Development Dependencies:** 
+
+* Installed using `npm install` 
+* Not installed using `npm install -- production`
+* If package A is installed using `npm install <packageA>` and it has devDependency on package B than package B will NOT be installed 
+
 
 
 <hr>
