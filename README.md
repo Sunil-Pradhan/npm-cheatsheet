@@ -438,6 +438,12 @@ npm update -g lodash
 ## NPM Prune
 
 
+Remove all unused packages(remove modules not listed in package.json):
+
+```
+npm prune
+```
+More info: [@stackoverflow](https://stackoverflow.com/questions/21417014/npm-command-to-uninstall-or-prune-unused-packages-in-node-js)
 
 
 
