@@ -71,7 +71,7 @@ Update npm to latest version:
 npm install npm@latest -g 
 ```
 
-
+NPM Shorthands: [@npmjs-docs](https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties)
 
 <hr>
 
