@@ -18,8 +18,8 @@ A list of terminal commands and flags to help use npm.
 * [npm versioning](#npm-ver)
 * [Updating Packages](#update-packg)
 * [NPM Prune](#npm-prune)
+* [Dependencies and Development Dependencies](#npm-dep-dev)
 * [Resources](#npm-resources)
-
 
 
 
@@ -467,6 +467,13 @@ Remove all unused packages(It remove modules not listed in package.json):
 npm prune
 ```
 More info: [@stackoverflow](https://stackoverflow.com/questions/21417014/npm-command-to-uninstall-or-prune-unused-packages-in-node-js)
+
+
+<hr>
+
+<a name="npm-dep-dev"></a>
+## Dependencies and Development Dependencies
+
 
 
 <hr>
