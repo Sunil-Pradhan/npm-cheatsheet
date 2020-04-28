@@ -178,6 +178,12 @@ Install a package as devDependency:
 npm install <package name> --save-dev 
 ```
 
+Or use shorthand:
+
+```
+npm install <package name> -S -D
+```
+
 Example:
 
 ```
