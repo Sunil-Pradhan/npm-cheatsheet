@@ -16,6 +16,8 @@ A list of terminal commands and flags to help use npm.
 * [List packages](#list-packg)
 * [npm versioning](#npm-ver)
 * [Updating Packages](#update-packg)
+* [NPM Prune](#npm-prune)
+
 
 
 
@@ -430,7 +432,10 @@ Example:
 npm update -g lodash 
 ```
 
+<hr>
 
+<a name="npm-prune"></a>
+## NPM Prune
 
 
 
