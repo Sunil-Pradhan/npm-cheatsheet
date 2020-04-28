@@ -461,7 +461,7 @@ npm update -g lodash
 ## NPM Prune
 
 
-Remove all unused packages(remove modules not listed in package.json):
+Remove all unused packages(It remove modules not listed in package.json):
 
 ```
 npm prune
