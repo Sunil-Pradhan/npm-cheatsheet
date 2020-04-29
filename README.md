@@ -530,6 +530,19 @@ All other packages need to go into development dependencies in your project.
 <a name="npm-pkg-ver"></a>
 ## Exploring package information and versions
 
+Print information about package: 
+
+```
+npm view <package> 
+```
+
+Example:
+
+```
+npm view lodash 
+```
+
+
 
 <hr>
 
