@@ -138,6 +138,37 @@ Delete default license:
 npm config delete init -license 
 ```
 
+**package.json file:**
+
+**Package name -** If you plan to publish your package, the most important things in your package.json are the name and version fields as they will be required. The name and version together form an identifier that is assumed to be completely unique. 
+
+Changes to the package should come along with changes to the version. If you do not plan to publish your package, the name and version fields are optional. 
+
+**Rules:**
+
+* The name must be less than or equal to 214 characters. This includes the scope for scoped packages. 
+* The name can not start with a dot or an underscore. 
+* New packages must not have uppercase letters in the name 
+* The name ends up being part of a URL, an argument on the command line, and a folder name. Therefore, the name can’t contain any non-URL-safe characters. 
+
+**Version -** Version number of your package.
+
+
+**Description -** It’s a string. This helps people discover your package, as it’s listed in npm search. 
+
+**Entry point -** We write a file which includes the main logic of the package/module. 
+
+**Test command -** Write test tool name. 
+
+**Git repository -** Address of git repo.
+
+**Keywords -** It’s an array of strings. This helps people discover your package as it’s listed in npm search. 
+
+**Author -** Name of Author. 
+
+**License -** You should specify a license for your package so that people know how they are permitted to use it, and any restrictions you are placing on it. 
+
+
 
  <hr>
 
