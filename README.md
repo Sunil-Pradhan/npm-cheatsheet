@@ -186,7 +186,7 @@ npm install <package name> --save-dev
 Or use shorthand:
 
 ```
-npm install <package name> -S -D
+npm install -D <package name>
 ```
 
 Example:
@@ -485,6 +485,24 @@ More info: [@stackoverflow](https://stackoverflow.com/questions/21417014/npm-com
 * Not installed using `npm install -- production`
 * If package A is installed using `npm install <packageA>` and it has devDependency on package B than package B will NOT be installed. 
 
+Install a package as devDependency:
+
+
+```
+npm install <package name> --save-dev 
+```
+
+Or use shorthand:
+
+```
+npm install -D <package name>
+```
+
+Example:
+
+```
+npm install lodash --save-dev 
+```
 
 
 <hr>
@@ -493,4 +511,4 @@ More info: [@stackoverflow](https://stackoverflow.com/questions/21417014/npm-com
 
 ##### Resources 
 
-NPM Shorthands: [@npmjs-docs](https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties)
+NPM Shorthands: [npmjs-docs](https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties)
