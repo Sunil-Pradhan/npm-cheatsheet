@@ -544,6 +544,19 @@ npm view lodash
 
 ![npm-lodash-version](/img/npm-lodash-version.png)
 
+Print information about package (all version):
+
+```
+npm view <package> versions 
+```
+
+Example:
+
+```
+npm view lodash versions
+```
+
+![npm-lodash-version-all](/img/npm-lodash-version-all.png)
 
 
 <hr>
