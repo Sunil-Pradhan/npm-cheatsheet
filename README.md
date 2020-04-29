@@ -19,8 +19,8 @@ A list of terminal commands and flags to help use npm.
 * [Updating Packages](#update-packg)
 * [NPM Prune](#npm-prune)
 * [Dependencies and Development Dependencies](#npm-dep-dev)
+* [Exploring package information and versions](#npm-pkg-ver)
 * [Resources](#npm-resources)
-
 
 
 <a name="basic-command"></a>
@@ -523,6 +523,12 @@ If you build just a standalone application for the browser you should add all pa
 But if you build a public package and other packages depend on your package and if you will use some functions from external packages in your compiled code then you will need to add those external packages as dependencies. 
 
 All other packages need to go into development dependencies in your project.
+
+
+<hr>
+
+<a name="npm-pkg-ver"></a>
+## Exploring package information and versions
 
 
 <hr>
