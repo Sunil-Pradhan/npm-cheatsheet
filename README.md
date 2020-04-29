@@ -542,6 +542,8 @@ Example:
 npm view lodash 
 ```
 
+![npm-lodash-version](/img/npm-lodash-version.png)
+
 
 
 <hr>
