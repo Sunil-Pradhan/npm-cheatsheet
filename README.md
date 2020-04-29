@@ -504,6 +504,17 @@ Example:
 npm install lodash --save-dev 
 ```
 
+package.json file contains dependencies and development dependencies. If you execute the `npm install` command then all those dependencies will be installed in case node_modules folder is missing. 
+
+If you install with the `production` flag then it will only install dependencies. 
+
+```
+npm install --production
+```
+
+But if the package has its own development dependencies they will be never installed in your project.
+
+
 
 <hr>
 
