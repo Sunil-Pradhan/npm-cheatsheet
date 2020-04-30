@@ -621,10 +621,13 @@ Display complete configuration list:
 npm config list -l
 ```
 
+Sets the config key to the value: I
 
+```
+npm config set <key> <value> 
+```
 
-
-
+_If value is omitted, then it sets it to **true**_
 
 
 
