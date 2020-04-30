@@ -609,6 +609,20 @@ npm config
 
 _npm gets its config settings from the command line, environment variables, npmrc files, and in some cases, the package.json file._
 
+shows basic configuration list:
+
+```
+npm config list 
+```
+
+shows complete configuration list:
+
+```
+npm config list -l
+```
+
+
+
 
 
 
