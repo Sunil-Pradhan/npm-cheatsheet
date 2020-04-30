@@ -671,6 +671,18 @@ Edit global configuration file with global values:
 npm config edit --global
 ```
 
+Delete configuration value: 
+
+```
+npm config delete 
+```
+
+Example: 
+
+```
+npm config delete init.author.name
+```
+
 <hr>
 
 <a name="npm-resources "></a>
