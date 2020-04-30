@@ -629,7 +629,15 @@ npm config set <key> <value>
 
 _If value is omitted, then it sets it to **true**_
 
+**Example:** 
 
+Set default author name for all new package creation:
+
+```
+npm config set init.author.name ‘your-name’
+```
+
+Verify by: `npm init -y`
 
 <hr>
 
