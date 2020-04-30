@@ -20,7 +20,10 @@ A list of terminal commands and flags to help use npm.
 * [NPM Prune](#npm-prune)
 * [Dependencies and Development Dependencies](#npm-dep-dev)
 * [Exploring package information and versions](#npm-pkg-ver)
+* [Configure NPM](#npm-config)
 * [Resources](#npm-resources)
+
+
 
 
 <a name="basic-command"></a>
@@ -588,6 +591,15 @@ npm view lodash versions
 ```
 
 ![npm-lodash-version-all](/img/npm-lodash-version-all.png)
+
+
+<hr>
+
+<a name="npm-config"></a>
+## Configure NPM
+
+
+
 
 
 <hr>
