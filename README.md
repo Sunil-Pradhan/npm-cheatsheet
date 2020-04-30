@@ -598,6 +598,18 @@ npm view lodash versions
 <a name="npm-config"></a>
 ## Configure NPM
 
+To configure npm: 
+
+```
+npm config 
+```
+
+![npm-config](/img/npm-config.png)
+
+
+_npm gets its config settings from the command line, environment variables, npmrc files, and in some cases, the package.json file._
+
+
 
 
 
