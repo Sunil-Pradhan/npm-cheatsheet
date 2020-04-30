@@ -621,7 +621,7 @@ Display complete configuration list:
 npm config list -l
 ```
 
-Sets the config key to the value: I
+Sets the config key to the value: 
 
 ```
 npm config set <key> <value> 
