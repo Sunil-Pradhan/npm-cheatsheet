@@ -639,6 +639,31 @@ npm config set init.author.name ‘your-name’
 
 Verify by: `npm init -y`
 
+Get default configuration value: 
+
+```
+npm config get 
+```
+
+**Example:** 
+
+Get value of default author name: 
+
+```
+npm config get init.author.name
+```
+
+Edit configuration file:
+
+```
+npm config edit 
+```
+It will opens up configuration file;
+
+![npm-npmrc-file](/img/npm-npmrc-file.png)
+
+If you see carefully all new edit which you have made it reflects on top of the list.If you want to go with npm inbuilt default values then remove it and save the file. 
+
 <hr>
 
 <a name="npm-resources "></a>
