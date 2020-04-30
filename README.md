@@ -664,6 +664,13 @@ It will opens up configuration file;
 
 If you see carefully all new edit which you have made it reflects on top of the list.If you want to go with npm inbuilt default values then remove it and save the file. 
 
+
+Edit global configuration file with global values: 
+
+```
+npm config edit --global
+```
+
 <hr>
 
 <a name="npm-resources "></a>
