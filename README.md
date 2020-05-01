@@ -308,6 +308,19 @@ Example:
 npm install lodash@latest --save-dev
 ```
 
+Install a package to specific version:
+
+
+```
+npm install <package name>@<version> --save-dev 
+```
+
+Example:
+
+```
+npm install lodash@2.1.1 --save-dev
+```
+
 
 
 **Flags:**
