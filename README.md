@@ -296,7 +296,7 @@ Example:
 npm rm lodash g
 ```
 
-Flags: 
+**Flags:**
 
 **-P :**  Production (--save-prod)
 
