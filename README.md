@@ -484,6 +484,31 @@ Example:
 npm install lodash@4 --save
 ```
 
+**What is the difference between package.json and package-lock.json?**
+
+![npm-package.json-package-lock.json](/img/npm-package.json-package-lock.json.png)
+
+
+When you install any package in your project by executing the command
+
+```
+npm install <package-name> --save
+```
+
+Then it will install the exact latest version of that package in your project and save the dependency in package.json with a carat (^) sign. 
+
+Like, if the current version of a package is 5.2.3 then the installed version will be 5.2.3 and the saved dependency will be ^5.2.3. 
+
+Carat (^) means it will support any higher version with major version 5 like 5.3.1 and so on. **Here, package-lock.json is created for locking the dependency with the installed version.**
+
+purpose or use of package-lock.json
+
+To avoid differences in installed dependencies on different environments and to generate the same results on every environment we should use the package-lock.json file to install dependencies.
+Ideally, this file should be on your source control with the package.json file so when you or any other user will clone the project and run the command “npm i”, it will install the exact same version saved in package-lock.json file and you will able to generate the same results as you developed with that particular package.
+Why should we commit package-lock.json with our project source code?
+During deployment, when you again run “npm i” with the same package.json file without the package-lock.json, the installed package might have a higher version now from what you had intended.
+Now, what if you wanted to have that particular version for your dependency during deployment which you used at the time of development. This is the need of creating a package-lock.json file and keeping it with the source code. This file is created with the details of the specific version installed in your project.
+
 <hr>
 
 <a name="update-packg"></a>
