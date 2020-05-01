@@ -296,6 +296,20 @@ Example:
 npm rm lodash g
 ```
 
+Install a package based on its tag: 
+
+```
+npm install <package name>@<tag> --save-dev 
+```
+
+Example:
+
+```
+npm install lodash@latest --save-dev
+```
+
+
+
 **Flags:**
 
 **-P :**  Production (--save-prod)
