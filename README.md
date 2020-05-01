@@ -298,13 +298,13 @@ npm rm lodash g
 
 Flags: 
 
--P :  Production (--save-prod)
--D : devDependencies (--save-dev)
--O : Optional (--save-optional)
--E  : Save exact
--g  : Global
--S : Save
---no-save: Prevents saving to dependencies 
+**-P :**  Production (--save-prod)
+**-D :** devDependencies (--save-dev)
+**-O :** Optional (--save-optional)
+**-E :** Save exact
+**-g :** Global
+**-S :** Save
+**--no-save:** Prevents saving to dependencies 
 
 <hr>
 
