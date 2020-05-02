@@ -69,6 +69,18 @@ Example:
 npm help -search install
 ```
 
+Read documentation of any specific package online (official):
+
+```
+npm docs <package>
+```
+
+Example: 
+
+```
+npm docs lodash 
+```
+
 Update npm to latest version: 
 
 ```
