@@ -362,6 +362,12 @@ List locally installed packages (includes all dependencies):
 npm list 
 ```
 
+Or use shorthand:
+
+```
+npm ls 
+```
+
 Restrict the depth of the tree by 1:  
 
 ```
