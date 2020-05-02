@@ -794,7 +794,9 @@ Now add the following line:
 
 ![npm-start-script-custom](/img/npm-start-script-custom.png)
 
+Now run `npm start` command: 
 
+![npm-start-command-hello-sunil](/img/npm-start-command-hello-sunil.png)
 
 
 <hr>
