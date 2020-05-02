@@ -784,9 +784,13 @@ npm config delete init.author.name
 
 Project directory:
 
-![npm-package.json-package-lock.json](/img/npm-package.json-package-lock.json.png)
+![npm-script-project-directory](/img/npm-script-project-directory.png)
 
-Remove the following line from package.json file: 
+Basically what you would do is to execute node and run index.js 
+
+![npm-start-command-hello-sunil](/img/npm-start-command-hello-sunil.png)
+
+So let's write a script that is going to do this for us. Remove the following line from package.json file: 
 
 ![npm-start-script](/img/npm-start-script.png)
 
@@ -794,9 +798,16 @@ Now add the following line:
 
 ![npm-start-script-custom](/img/npm-start-script-custom.png)
 
+
 Now run `npm start` command: 
 
-![npm-start-command-hello-sunil](/img/npm-start-command-hello-sunil.png)
+![npm-start-output](/img/npm-start-output.png)
+
+This comes in handy when you are developing a project. Let's say the project entry point is index.js. 
+
+So by having a start command the user doesn't have to worry about what command to run. So someone downloads your project from github and they run - `npm start`. 
+
+Your project will automatically execute as you have intended.  
 
 
 <hr>
