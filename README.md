@@ -21,6 +21,7 @@ A list of terminal commands and flags to help use npm.
 * [Dependencies and Development Dependencies](#npm-dep-dev)
 * [Exploring package information and versions](#npm-pkg-ver)
 * [Configure NPM](#npm-config)
+* [NPM Script](#npm-script)
 * [Resources](#npm-resources)
 
 
