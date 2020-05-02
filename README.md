@@ -775,6 +775,30 @@ npm config delete init.author.name
 
 <hr>
 
+<a name="npm-script"></a>
+## NPM Script
+
+**Start a package:**
+
+**npm start -** This runs an arbitrary command specified in the package’s **“Start”** property of its **“scripts”** object. If no **“start”** property is specified on the **“script”** object, it will run node server.js. 
+
+Project directory:
+
+![npm-package.json-package-lock.json](/img/npm-package.json-package-lock.json.png)
+
+Remove the following line from package.json file: 
+
+![npm-start-script](/img/npm-start-script.png)
+
+Now add the following line:
+
+![npm-start-script-custom](/img/npm-start-script-custom.png)
+
+
+
+
+<hr>
+
 <a name="npm-resources "></a>
 
 ##### Resources 
