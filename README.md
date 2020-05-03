@@ -854,6 +854,10 @@ npm install colors --save-dev
 
 ![npm-colors-package](/img/npm-colors-package.png)
 
+Edit package.json file for prestart: 
+
+![npm-edit-package-colors](/img/npm-edit-package-colors.png)
+
 
 
 <hr>
