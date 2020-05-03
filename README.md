@@ -830,7 +830,16 @@ This comes in handy when you are developing a project. Let's say the project ent
 
 So by having a start command the user doesn't have to worry about what command to run. So someone downloads your project from github and they run - `npm start`. 
 
-Your project will automatically execute as you have intended.  
+Your project will automatically execute as you have intended. 
+
+Other popular npm inbuilt script command are: 
+
+* `npm stop`
+* `npm restart` 
+* `npm test`
+* `npm prestart`
+* `npm poststart`
+
 
 
 <hr>
