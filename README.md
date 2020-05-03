@@ -796,11 +796,9 @@ NPM scripts allow you easily perform certain operations to execute commands or e
 
 Popular npm script command: 
 
-`npm start `
-
-`npm run`
-
-`npm built` 
+* `npm start `
+* `npm run`
+* `npm built` 
 
 
 **Start a package:**
