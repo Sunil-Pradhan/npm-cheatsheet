@@ -334,6 +334,19 @@ Example:
 npm install lodash@2.1.1 --save-dev
 ```
 
+Install a package to exact specific version:
+
+
+```
+npm install <package name>@<version> --save-exact 
+```
+
+Example:
+
+```
+npm install lodash@2.4.1 --save-exact
+```
+
 
 
 **Flags:**
