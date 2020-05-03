@@ -792,6 +792,17 @@ npm config delete init.author.name
 <a name="npm-script"></a>
 ## NPM Script
 
+NPM scripts allow you easily perform certain operations to execute commands or execute files using npm command. 
+
+Popular npm script command: 
+
+`npm start `
+
+`npm run`
+
+`npm built` 
+
+
 **Start a package:**
 
 **npm start -** This runs an arbitrary command specified in the package’s **“Start”** property of its **“scripts”** object. If no **“start”** property is specified on the **“script”** object, it will run node server.js. 
