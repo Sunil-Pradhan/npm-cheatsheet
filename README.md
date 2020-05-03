@@ -801,7 +801,7 @@ Popular npm script command:
 * `npm built` 
 
 
-**npm Start:**
+**npm start:**
 
 **npm start -** This runs an arbitrary command specified in the package’s **“Start”** property of its **“scripts”** object. If no **“start”** property is specified on the **“script”** object, it will run node server.js. 
 
@@ -839,6 +839,20 @@ Other popular npm inbuilt script command are:
 * `npm test`
 * `npm prestart`
 * `npm poststart`
+
+**npm prestart:**
+
+Project directory:
+
+![npm-project-folder-npm-prestart](/img/npm-project-folder-npm-prestart.png)
+
+Install colors package as devDependency:
+
+```
+npm install colors --save-dev
+``` 
+
+![npm-colors-package](/img/npm-colors-package.png)
 
 
 
