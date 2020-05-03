@@ -801,7 +801,7 @@ Popular npm script command:
 * `npm built` 
 
 
-**Start a package:**
+**npm Start:**
 
 **npm start -** This runs an arbitrary command specified in the package’s **“Start”** property of its **“scripts”** object. If no **“start”** property is specified on the **“script”** object, it will run node server.js. 
 
