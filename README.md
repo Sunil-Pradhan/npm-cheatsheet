@@ -21,6 +21,7 @@ A list of terminal commands and flags to help use npm.
 - [Exploring package information and versions](#npm-pkg-ver)
 - [Configure NPM](#npm-config)
 - [NPM Script](#npm-script)
+- [Custom NPM scripts](#npm-custom-script)
 - [Resources](#npm-resources)
 
 <a name="basic-command"></a>
@@ -847,6 +848,30 @@ Edit prestart.js file to see output in red color:
 Now see the final output by typing `npm start`:
 
 ![prestart-js-ourput-red-color](/img/prestart-js-ourput-red-color.png)
+
+<hr>
+
+<a name="npm-custom-script"></a>
+
+## Custom NPM scripts
+
+Executes certain script:
+
+```
+npm run <script>
+```
+
+As alias of:
+
+```
+npm run-script <script>
+```
+
+**npm run:**
+
+Project directory:
+
+![npm-project-directory-custom-js](/img/npm-project-directory-custom-js.png)
 
 
 
