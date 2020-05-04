@@ -840,6 +840,16 @@ Now test prestart script by typing: `npm start`:
 
 ![npm-prestart-script-test](/img/npm-prestart-script-test.png)
 
+Edit prestart.js file to see output in red color:
+
+![prestart-js-edit-for-red-color](/img/prestart-js-edit-for-red-color.png)
+
+Now see the final output by typing `npm start`:
+
+![prestart-js-ourput-red-color](/img/prestart-js-ourput-red-color.png)
+
+
+
 <hr>
 
 <a name="npm-resources "></a>
