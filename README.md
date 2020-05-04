@@ -873,7 +873,13 @@ Project directory:
 
 ![npm-project-directory-custom-js](/img/npm-project-directory-custom-js.png)
 
+Edit package.json file for custom script:
 
+![edit-package-json-file-for-custom-script](/img/edit-package-json-file-for-custom-script.png)
+
+Now test custom script by typing: `npm start`:
+
+![npm-custom-script](/img/npm-custom-script.png)
 
 <hr>
 
