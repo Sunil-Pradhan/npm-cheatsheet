@@ -894,6 +894,11 @@ npm i -D npm-run-all
 
 Project directory:
 
+![npm-run-all-project-directory](/img/npm-run-all-project-directory.png)
+
+
+
+
 <hr>
 
 <a name="npm-resources "></a>
