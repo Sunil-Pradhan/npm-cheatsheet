@@ -849,6 +849,9 @@ Now see the final output by typing `npm start`:
 
 ![prestart-js-ourput-red-color](/img/prestart-js-ourput-red-color.png)
 
+
+**NPM .bin folder with executable Scripts:**
+
 <hr>
 
 <a name="npm-custom-script"></a>
