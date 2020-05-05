@@ -850,7 +850,7 @@ Now see the final output by typing `npm start`:
 ![prestart-js-ourput-red-color](/img/prestart-js-ourput-red-color.png)
 
 
-**NPM .bin folder with executable Scripts:**
+**NPM .bin folder with executable scripts:**
 
 During npm package installation bin scripts are copied to the .bin folder. 
 
