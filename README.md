@@ -884,6 +884,11 @@ Now test custom script by typing: `npm start`:
 
 **Run NPM scripts simultaneously:**
 
+Install npm-run-all package: 
+
+```
+npm i -D npm-run-all
+```
 
 
 <hr>
