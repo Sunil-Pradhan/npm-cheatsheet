@@ -881,6 +881,11 @@ Now test custom script by typing: `npm start`:
 
 ![npm-custom-script](/img/npm-custom-script.png)
 
+
+**Run NPM scripts simultaneously:**
+
+
+
 <hr>
 
 <a name="npm-resources "></a>
