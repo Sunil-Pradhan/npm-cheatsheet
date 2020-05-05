@@ -900,9 +900,15 @@ Edit package.json file to run NPM scripts simultaneously:
 
 ![npm-run-all-package-json-edit](/img/npm-run-all-package-json-edit.png)
 
-Now run scripts simultaneously by typing: `npm run all`:
+Now run scripts simultaneously by typing: `npm run all` (parallel):
 
 ![npm-run-all-script-a-script-b-script-c](/img/npm-run-all-script-a-script-b-script-c.png)
+
+If you want to run script one by one (Serial) then edit package.json file as follows: 
+
+![npm-run-all-script-serial](/img/npm-run-all-script-serial.png)
+
+
 
 <hr>
 
