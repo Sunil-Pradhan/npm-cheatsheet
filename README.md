@@ -852,6 +852,14 @@ Now see the final output by typing `npm start`:
 
 **NPM .bin folder with executable Scripts:**
 
+During npm package installation bin scripts are copied to the .bin folder. 
+
+![bin-shebang-line](/img/bin-shebang-line.png)
+
+:bulb: **Note:** #!/usr/bin/env - Shebang line
+
+It determines which interpreter should be used for file execution on the Unix-like operating systems. (first line in the executable plain text files) 
+
 <hr>
 
 <a name="npm-custom-script"></a>
