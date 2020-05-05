@@ -892,7 +892,7 @@ npm i -D npm-run-all
 
 ![npm-run-all-package-install](/img/npm-run-all-package-install.png)
 
-
+Project directory:
 
 <hr>
 
