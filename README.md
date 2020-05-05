@@ -908,6 +908,10 @@ If you want to run script one by one (Serial) then edit package.json file as fol
 
 ![npm-run-all-script-serial](/img/npm-run-all-script-serial.png)
 
+Now run scripts simultaneously by typing: `npm run all` (Serial):
+
+![npm-run-all-script-serial-output](/img/npm-run-all-script-serial-output.png)
+
 
 
 <hr>
