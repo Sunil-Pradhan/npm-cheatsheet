@@ -896,8 +896,13 @@ Project directory:
 
 ![npm-run-all-project-directory](/img/npm-run-all-project-directory.png)
 
+Edit package.json file to run NPM scripts simultaneously:
 
+![npm-run-all-package-json-edit](/img/npm-run-all-package-json-edit.png)
 
+Now run scripts simultaneously by typing: `npm run all`:
+
+![npm-run-all-script-a-script-b-script-c](/img/npm-run-all-script-a-script-b-script-c.png)
 
 <hr>
 
