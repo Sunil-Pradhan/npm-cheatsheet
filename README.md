@@ -411,6 +411,12 @@ Or
 npm list --global true --depth 0
 ```
 
+Lists the dependencies which are outdated:
+
+```
+npm outdated
+```
+
 <hr>
 
 <a name="npm-ver"></a>
