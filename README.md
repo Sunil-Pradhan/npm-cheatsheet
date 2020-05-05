@@ -890,6 +890,9 @@ Install npm-run-all package:
 npm i -D npm-run-all
 ```
 
+![npm-run-all-package-install](/img/npm-run-all-package-install.png)
+
+
 
 <hr>
 
