@@ -94,7 +94,7 @@ npm install npm@latest -g
 
 ## Package creation
 
-Initialize project and create package.json:
+Initialize project and create package.json file:
 
 ```
 npm init
