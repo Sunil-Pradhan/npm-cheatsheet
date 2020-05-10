@@ -608,7 +608,7 @@ More info: [@stackoverflow](https://stackoverflow.com/questions/21417014/npm-com
 **Development Dependencies:**
 
 - Installed using `npm install`
-- Not installed using `npm install -- production`
+- Not installed using `npm install --production`
 - If package A is installed using `npm install <packageA>` and it has devDependency on package B than package B will NOT be installed.
 
 Install a package as devDependency:
