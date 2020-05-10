@@ -94,7 +94,7 @@ npm install npm@latest -g
 
 ## Package creation
 
-Initialize project and create package.json:
+Initialize project and create package.json file:
 
 ```
 npm init
@@ -135,7 +135,7 @@ npm config get init -author-name
 Show default license:
 
 ```
-npm get init-license
+npm get init -license
 ```
 
 Delete default author name:
