@@ -639,7 +639,7 @@ npm install --production
 
 But if the package has its own development dependencies they will be never installed in your project.
 
-:bulb: **TIP:** **Do you add packages as dependency or dev-dependancy?**
+:bulb: **TIP:** **Do you add packages as dependency or devDependancy?**
 
 The answer is it depends: It depends on the kind of application you are developing.
 
