@@ -855,16 +855,15 @@ Now see the final output by typing `npm start`:
 
 ![prestart-js-ourput-red-color](/img/prestart-js-ourput-red-color.png)
 
-
 **NPM .bin folder with executable scripts:**
 
-During npm package installation bin scripts are copied to the .bin folder. 
+During npm package installation bin scripts are copied to the .bin folder.
 
 ![bin-shebang-line](/img/bin-shebang-line.png)
 
 :bulb: **Note:** #!/usr/bin/env - Shebang line
 
-It determines which interpreter should be used for file execution on the Unix-like operating systems. (first line in the executable plain text files) 
+It determines which interpreter should be used for file execution on the Unix-like operating systems. (first line in the executable plain text files)
 
 <hr>
 
@@ -898,10 +897,9 @@ Now test custom script by typing: `npm start`:
 
 ![npm-custom-script](/img/npm-custom-script.png)
 
-
 **Run NPM scripts simultaneously:**
 
-Install npm-run-all package: 
+Install npm-run-all package:
 
 ```
 npm i -D npm-run-all
@@ -921,15 +919,13 @@ Now run scripts simultaneously by typing: `npm run all` (parallel):
 
 ![npm-run-all-script-a-script-b-script-c](/img/npm-run-all-script-a-script-b-script-c.png)
 
-If you want to run script one by one (Serial) then edit package.json file as follows: 
+If you want to run script one by one (Serial) then edit package.json file as follows:
 
 ![npm-run-all-script-serial](/img/npm-run-all-script-serial.png)
 
 Now run scripts simultaneously by typing: `npm run all` (Serial):
 
 ![npm-run-all-script-serial-output](/img/npm-run-all-script-serial-output.png)
-
-
 
 <hr>
 
